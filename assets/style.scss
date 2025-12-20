@@ -1,10 +1,18 @@
 ---
 ---
 
+
 $accent: #bf0707;
 $lighter: #fff4f4;
 $marked: #ffcccc;
-$hover: #ff0000;
+$hover: #ed1c24;
+
+// var
+
+$background: #151515;
+$white: #ffffff;
+$blue: #3fa8f4;
+$red: #ed1c24;
 
 // layout
 
@@ -33,8 +41,8 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
 
 body {
     font-family: sans, sans-serif;
-    background-color: #151515;
-    color: #ffffff;
+    background-color: $background;
+    color: $white;
 }
 
 code {
