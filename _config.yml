@@ -1,5 +1,5 @@
 ---
-title: GTFOBins
+title: NYXBins
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
 
