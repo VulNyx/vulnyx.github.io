@@ -5,7 +5,7 @@ title: NYXBins
 
 ![logo](/assets/logo.png){:.logo}
 
-**NYXBins** is a curated knowledge base of Unix binaries that can be leveraged to bypass local security restrictions on misconfigured systems.
+**NYXBins** is a list containing a collection of Unix binaries that can be used to circumvent local security restrictions on misconfigured systems.
 
 The project documents legitimate functionalities of common Unix binaries that, when abused, can be used to escape restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind or reverse shells, and assist in a variety of post-exploitation tasks.
 
