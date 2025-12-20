@@ -11,7 +11,7 @@ The project documents legitimate functionalities of common Unix binaries that, w
 
 **NYXBins** is **not a collection of exploits**. The binaries listed here are not vulnerable; rather, **NYXBins** focuses on survivability techniques, showing how both attackers and defenders can operate using only the tools already available on the target system.
 
-Born as a fork and evolution of [GTFOBins](gtfobins.github.io), **NYXBins** aims to expand, refine, and modernize the catalog with new techniques, improved documentation, and a community-driven approach.
+Born as a fork and evolution of [GTFOBins](https://gtfobins.github.io), **NYXBins** aims to expand, refine, and modernize the catalog with new techniques, improved documentation, and a community-driven approach.
 
 **NYXBins** is a completely open and [collaborative](https://github.com/vulnyx/vulnyx.github.io/graphs/contributors) project, which welcomes [contributions](/contribute/) of new binaries, methods or improvements of all kinds.
 
