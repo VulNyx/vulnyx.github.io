@@ -57,6 +57,8 @@ pre {
     background: $lighter;
     padding: 1em;
     overflow-x: auto;
+    box-shadow: 0 0 0 0.3px #3fa8f4 inset;
+    border-radius: 0.25rem;
 
     code {
         padding: 0;
