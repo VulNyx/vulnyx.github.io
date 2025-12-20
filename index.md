@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GTFOBins
+title: NYXBins
 ---
 
 ![logo](/assets/logo.png){:.logo}
