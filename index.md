@@ -15,7 +15,7 @@ NYXBins is not a collection of exploits. The binaries listed are not inherently 
 
 Born as a fork and evolution of GTFOBins, NYXBins aims to expand, refine, and modernize the catalog with new techniques, clearer documentation, and a community-driven approach.
 
-NYXBins is an open and [collaborative](/contribute/) project where anyone can contribute new binaries, methods, or improvements.
+NYXBins is an open and [collaborative](https://github.com/vulnyx/vulnyx..github.io/graphs/contributors) project where anyone can [contribute](/contribute/) new binaries, methods, or improvements.
 
 If you are interested in Windows-native equivalents, consider checking out [LOLBAS](https://lolbas-project.github.io/).
 
