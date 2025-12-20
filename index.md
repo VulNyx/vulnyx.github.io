@@ -9,7 +9,7 @@ title: NYXBins
 
 The project documents legitimate and intended functionalities of common Unix binaries that, when abused, can be used to escape restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind or reverse shells, and assist in a wide range of post-exploitation activities.
 
-NYXBins is not a collection of exploits. The binaries listed are not inherently vulnerable; instead, **NYXBins** focuses on living off the land techniques — showing how attackers and defenders alike can operate using only the tools already present on a target system.
+**NYXBins** is not a collection of exploits. The binaries listed are not inherently vulnerable; instead, **NYXBins** focuses on living off the land techniques — showing how attackers and defenders alike can operate using only the tools already present on a target system.
 
 Born as a fork and evolution of [GTFOBins](gtfobins.github.io), **NYXBins** aims to expand, refine, and modernize the catalog with new techniques, clearer documentation, and a community-driven approach.
 
