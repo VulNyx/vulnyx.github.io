@@ -17,6 +17,4 @@ NYXBins is an open and [collaborative](https://github.com/vulnyx/vulnyx..github.
 
 If you are interested in Windows-native equivalents, consider checking out [LOLBAS](https://lolbas-project.github.io/).
 
----
-
 {% include bin_table.html %}
