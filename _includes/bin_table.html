@@ -4,7 +4,8 @@
         {% assign function_id = function_pair[0] %}
         {% assign function = function_pair[1] %}
         <!-- <li><a href="#+{{ function.label | downcase }}" data-title="{{ function.description | replace: '\n', ' ' }}">{{ function.label }}</a></li> -->
-        <li><a href="#+{{ function.label | downcase }}">{{ function.label }}</a></li>
+        <!-- <li><a href="#+{{ function.label | downcase }}">{{ function.label }}</a></li> -->
+        <li><a href="#+{{ function.label | downcase }}"></a></li>
         {% endfor %}
     </ul>
 
