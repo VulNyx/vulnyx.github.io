@@ -1,7 +1,6 @@
 ---
 ---
 
-
 $accent: #ff3e3e;
 $lighter: #3fa8f41a;
 $marked: #ffcccc;
@@ -116,28 +115,7 @@ h2, h3, h4, h5, h5 {
             font-size: initial;
             border-radius: 0.25em;
 
-            &:hover:before {
-                content: attr(data-title);
-                font-size: 0.8rem;
-                display: block;
-                position: absolute;
-                left: 0;
-                right: 0;
-                margin-top: 1.75rem; // XXX below the button
-                margin-left: 10%;
-                margin-right: 10%;
-                padding: 1em;
-                border-radius: 1em;
-                color: $lighter;
-                background: rgba(0, 0, 0, 0.75);
-                z-index: 1;
-                pointer-events: none;
-
-                &[data-title=""]:hover::before {
-                display: none;
-                content: none;
-                }
-            }
+            // ❌ tooltip eliminado
         }
     }
 
