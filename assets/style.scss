@@ -132,6 +132,10 @@ h2, h3, h4, h5, h5 {
                 background: rgba(0, 0, 0, 0.75);
                 z-index: 1;
                 pointer-events: none;
+
+                &[data-title=""]:hover::before {
+                display: none;
+                content: none;
             }
         }
     }
