@@ -15,6 +15,6 @@ Born as a fork and evolution of [GTFOBins](https://gtfobins.github.io), **NYXBin
 
 **NYXBins** is a completely open and [collaborative](https://github.com/vulnyx/vulnyx.github.io/graphs/contributors) project, which welcomes [contributions](/contribute/) of new binaries, methods or improvements of all kinds.
 
-For Windows-native equivalents, consider checking out [LOLBAS](https://lolbas-project.github.io/).
+To find native equivalents of Windows operating systems, consider consulting [LOLBAS](https://lolbas-project.github.io/).
 
 {% include bin_table.html %}
